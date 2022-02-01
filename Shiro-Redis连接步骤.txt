@@ -1,0 +1,2 @@
+centos6 切换到 /usr/local/bin目录下 
+具体代码:   1.  cd /usr/local/bin       2.  redis-server /myredis/redis.conf
